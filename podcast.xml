@@ -1,29 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-xmlns:content="http://purl.org/rss/1.0/modules/content/"> 
-  <channel> 
-    <title>Adam 的投资与跨境内参</title> 
-    <link>https://github.com/bethshan2018-hub/my-podcast</link> 
-    <language>zh-cn</language> 
-    <itunes:author>Adam Yang</itunes:author> 
-    <description>基于 NotebookLM 自动生成的投资研究与跨境电商选品深度对谈。</description> 
-    <itunes:type>episodic</itunes:type> 
-    <itunes:image href="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/podcast_cover.jpg"/> 
-    <itunes:category text="Business"> 
-      <itunes:category text="Investing"/> 
-    </itunes:category> 
-
-    <item> 
-      <title>巴菲特与段永平投资框架深度对谈</title> 
-      <itunes:author>NotebookLM AI</itunes:author> 
-      <description>基于 NotebookLM 生成的巴菲特与段永平投资理念深度研报对谈。</description> 
-      <pubDate>Tue, 24 Mar 2026 12:00:00 +0800</pubDate> 
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Buffett_and_Duan_Yongping_investing_frameworks.m4a" 
-                 length="24782364" 
-                 type="audio/x-m4a"/> 
-      <guid>buffett-duan-001</guid> 
-      <itunes:duration>00:15:00</itunes:duration> 
-      <itunes:summary>基于 NotebookLM 生成的巴菲特与段永平投资理念深度研报对谈。</itunes:summary> 
-    </item> 
-  </channel> 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Adam 的投资与跨境内参</title>
+    <link>https://github.com/bethshan2018-hub/my-podcast</link>
+    <language>zh-cn</language>
+    <itunes:author>Adam Yang</itunes:author>
+    <description>基于 NotebookLM 自动生成的投资研究与跨境电商选品深度对谈。</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/podcast_cover.jpg"/>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <item>
+      <title>跨境大件的护城河</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的跨境大件的护城河深度对谈。</description>
+      <pubDate>Wed, 25 Mar 2026 11:35:54 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/跨境大件的护城河.m4a" length="28615317" type="audio/x-m4a"/>
+      <guid>跨境大件的护城河</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的跨境大件的护城河深度对谈。</itunes:summary>
+    </item>
+    <item>
+      <title>Solo E commerce Profits with Psychology and Math</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的Solo E commerce Profits with Psychology and Math深度对谈。</description>
+      <pubDate>Wed, 25 Mar 2026 10:00:46 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Solo_E-commerce_Profits_with_Psychology_and_Math.m4a" length="48046773" type="audio/x-m4a"/>
+      <guid>solo-e-commerce-profits-with-psychology-and-math</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的Solo E commerce Profits with Psychology and Math深度对谈。</itunes:summary>
+    </item>
+    <item>
+      <title>电商选品202603001</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的电商选品202603001深度对谈。</description>
+      <pubDate>Wed, 25 Mar 2026 10:00:46 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/电商选品202603001.m4a" length="48046773" type="audio/x-m4a"/>
+      <guid>电商选品202603001</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的电商选品202603001深度对谈。</itunes:summary>
+    </item>
+    <item>
+      <title>Buffett and Duan Yongping investing frameworks</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的Buffett and Duan Yongping investing frameworks深度对谈。</description>
+      <pubDate>Wed, 25 Mar 2026 00:40:09 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Buffett_and_Duan_Yongping_investing_frameworks.m4a" length="24782364" type="audio/x-m4a"/>
+      <guid>buffett-and-duan-yongping-investing-frameworks</guid>
+      <itunes:duration>00:00</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的Buffett and Duan Yongping investing frameworks深度对谈。</itunes:summary>
+    </item>
+  </channel>
 </rss>
