@@ -12,33 +12,13 @@
       <itunes:category text="Investing"/>
     </itunes:category>
     <item>
-      <title>测试新节目02 copy</title>
-      <itunes:author>NotebookLM AI</itunes:author>
-      <description>基于 NotebookLM 生成的测试新节目02 copy深度对谈。</description>
-      <pubDate>Wed, 25 Mar 2026 12:43:09 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/测试新节目02 copy.m4a" length="0" type="audio/x-m4a"/>
-      <guid>测试新节目02-copy</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:summary>基于 NotebookLM 生成的测试新节目02 copy深度对谈。</itunes:summary>
-    </item>
-    <item>
-      <title>测试新节目</title>
-      <itunes:author>NotebookLM AI</itunes:author>
-      <description>基于 NotebookLM 生成的测试新节目深度对谈。</description>
-      <pubDate>Wed, 25 Mar 2026 12:43:09 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/测试新节目.m4a" length="0" type="audio/x-m4a"/>
-      <guid>测试新节目</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:summary>基于 NotebookLM 生成的测试新节目深度对谈。</itunes:summary>
-    </item>
-    <item>
       <title>跨境大件的护城河</title>
       <itunes:author>NotebookLM AI</itunes:author>
       <description>基于 NotebookLM 生成的跨境大件的护城河深度对谈。</description>
       <pubDate>Wed, 25 Mar 2026 11:35:54 +0800</pubDate>
       <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/跨境大件的护城河.m4a" length="28615317" type="audio/x-m4a"/>
       <guid>跨境大件的护城河</guid>
-      <itunes:duration>00:00</itunes:duration>
+      <itunes:duration>14:49</itunes:duration>
       <itunes:summary>基于 NotebookLM 生成的跨境大件的护城河深度对谈。</itunes:summary>
     </item>
     <item>
@@ -48,7 +28,7 @@
       <pubDate>Wed, 25 Mar 2026 10:00:46 +0800</pubDate>
       <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/电商选品202603001.m4a" length="48046773" type="audio/x-m4a"/>
       <guid>电商选品202603001</guid>
-      <itunes:duration>00:00</itunes:duration>
+      <itunes:duration>24:52</itunes:duration>
       <itunes:summary>基于 NotebookLM 生成的电商选品202603001深度对谈。</itunes:summary>
     </item>
     <item>
@@ -58,28 +38,8 @@
       <pubDate>Wed, 25 Mar 2026 00:40:09 +0800</pubDate>
       <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Buffett_and_Duan_Yongping_investing_frameworks.m4a" length="24782364" type="audio/x-m4a"/>
       <guid>buffett-and-duan-yongping-investing-frameworks</guid>
-      <itunes:duration>00:00</itunes:duration>
+      <itunes:duration>12:49</itunes:duration>
       <itunes:summary>基于 NotebookLM 生成的Buffett and Duan Yongping investing frameworks深度对谈。</itunes:summary>
-    </item>
-    <item>
-      <title>test b</title>
-      <itunes:author>NotebookLM AI</itunes:author>
-      <description>基于 NotebookLM 生成的test b深度对谈。</description>
-      <pubDate>Wed, 25 Mar 2026 00:40:09 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/test b.m4a" length="24782364" type="audio/x-m4a"/>
-      <guid>test-b</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:summary>基于 NotebookLM 生成的test b深度对谈。</itunes:summary>
-    </item>
-    <item>
-      <title>123456</title>
-      <itunes:author>NotebookLM AI</itunes:author>
-      <description>基于 NotebookLM 生成的123456深度对谈。</description>
-      <pubDate>Wed, 25 Mar 2026 00:40:09 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/123456.m4a" length="24782364" type="audio/x-m4a"/>
-      <guid>123456</guid>
-      <itunes:duration>00:00</itunes:duration>
-      <itunes:summary>基于 NotebookLM 生成的123456深度对谈。</itunes:summary>
     </item>
   </channel>
 </rss>
