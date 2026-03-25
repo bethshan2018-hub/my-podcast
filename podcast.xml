@@ -61,5 +61,15 @@
       <itunes:duration>12:49</itunes:duration>
       <itunes:summary>基于 NotebookLM 生成的Buffett and Duan Yongping investing frameworks深度对谈。</itunes:summary>
     </item>
+    <item>
+      <title>Combined Crossborder 2026 Articles</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的Combined Crossborder 2026 Articles深度对谈。</description>
+      <pubDate>Wed, 25 Mar 2026 00:40:09 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Combined_Crossborder_2026_Articles.m4a" length="24782364" type="audio/x-m4a"/>
+      <guid>combined-crossborder-2026-articles</guid>
+      <itunes:duration>12:49</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的Combined Crossborder 2026 Articles深度对谈。</itunes:summary>
+    </item>
   </channel>
 </rss>
