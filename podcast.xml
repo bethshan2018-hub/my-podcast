@@ -13,7 +13,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:category text="Investing"/> 
     </itunes:category> 
 
-    <!-- 第一期 -->
     <item> 
       <title>巴菲特与段永平投资框架深度对谈</title> 
       <itunes:author>NotebookLM AI</itunes:author> 
@@ -25,34 +24,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <guid>buffett-duan-001</guid> 
       <itunes:duration>00:15:00</itunes:duration> 
       <itunes:summary>基于 NotebookLM 生成的巴菲特与段永平投资理念深度研报对谈。</itunes:summary> 
-    </item>
-
-    <!-- 第二期：英文名 -->
-    <item> 
-      <title>Solo E-commerce Profits with Psychology and Math</title> 
-      <itunes:author>NotebookLM AI</itunes:author> 
-      <description>基于 NotebookLM 生成的电商心理学与数学盈利模式深度对谈。</description> 
-      <pubDate>Wed, 25 Mar 2026 10:00:00 +0800</pubDate> 
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Solo_E-commerce_Profits_with_Psychology_and_Math.m4a" 
-                 length="48046773" 
-                 type="audio/x-m4a"/> 
-      <guid>solo-ecommerce-001</guid> 
-      <itunes:duration>00:24:52</itunes:duration> 
-      <itunes:summary>基于 NotebookLM 生成的电商心理学与数学盈利模式深度对谈。</itunes:summary> 
-    </item>
-
-    <!-- 第三期：中文名 -->
-    <item> 
-      <title>电商选品 2026 年 3 月 第 1 期</title> 
-      <itunes:author>NotebookLM AI</itunes:author> 
-      <description>基于 NotebookLM 生成的电商选品深度对谈。</description> 
-      <pubDate>Wed, 25 Mar 2026 14:00:00 +0800</pubDate> 
-      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/电商选品202603001.m4a" 
-                 length="48046773" 
-                 type="audio/x-m4a"/> 
-      <guid>dianshang-202603-001</guid> 
-      <itunes:duration>00:24:52</itunes:duration> 
-      <itunes:summary>基于 NotebookLM 生成的电商选品深度对谈。</itunes:summary> 
     </item> 
   </channel> 
 </rss>
