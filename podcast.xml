@@ -71,5 +71,15 @@
       <itunes:duration>12:49</itunes:duration>
       <itunes:summary>基于 NotebookLM 生成的Combined Crossborder 2026 Articles深度对谈。</itunes:summary>
     </item>
+    <item>
+      <title>Progress Collides with 2026 Instability</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的Progress Collides with 2026 Instability深度对谈。</description>
+      <pubDate>Thu, 26 Mar 2026 19:43:45 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/Progress_Collides_with_2026_Instability.m4a" length="27557046" type="audio/x-m4a"/>
+      <guid>progress-collides-with-2026-instability</guid>
+      <itunes:duration>14:16</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的Progress Collides with 2026 Instability深度对谈。</itunes:summary>
+    </item>
   </channel>
 </rss>
