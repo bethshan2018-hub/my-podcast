@@ -62,6 +62,16 @@
       <itunes:summary>基于 NotebookLM 生成的Buffett and Duan Yongping investing frameworks深度对谈。</itunes:summary>
     </item>
     <item>
+      <title>2026跨境独立站生死红线</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的2026跨境独立站生死红线深度对谈。</description>
+      <pubDate>Thu, 26 Mar 2026 20:51:57 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/2026跨境独立站生死红线.m4a" length="49607169" type="audio/x-m4a"/>
+      <guid>2026跨境独立站生死红线</guid>
+      <itunes:duration>25:41</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的2026跨境独立站生死红线深度对谈。</itunes:summary>
+    </item>
+    <item>
       <title>Progress Collides with 2026 Instability</title>
       <itunes:author>NotebookLM AI</itunes:author>
       <description>基于 NotebookLM 生成的Progress Collides with 2026 Instability深度对谈。</description>
@@ -70,6 +80,16 @@
       <guid>progress-collides-with-2026-instability</guid>
       <itunes:duration>14:16</itunes:duration>
       <itunes:summary>基于 NotebookLM 生成的Progress Collides with 2026 Instability深度对谈。</itunes:summary>
+    </item>
+    <item>
+      <title>OpenClaw代理的安全博弈</title>
+      <itunes:author>NotebookLM AI</itunes:author>
+      <description>基于 NotebookLM 生成的OpenClaw代理的安全博弈深度对谈。</description>
+      <pubDate>Fri, 27 Mar 2026 13:17:51 +0800</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/bethshan2018-hub/my-podcast/main/OpenClaw代理的安全博弈.m4a" length="47368230" type="audio/x-m4a"/>
+      <guid>openclaw代理的安全博弈</guid>
+      <itunes:duration>24:31</itunes:duration>
+      <itunes:summary>基于 NotebookLM 生成的OpenClaw代理的安全博弈深度对谈。</itunes:summary>
     </item>
   </channel>
 </rss>
